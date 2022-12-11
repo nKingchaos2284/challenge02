@@ -15,7 +15,7 @@ header h1 {
     font-size: 50px;
 }
 
-header div {
+header nav {
     padding-top: 30px;
     margin-right: 20px;
     float: right;
@@ -23,7 +23,7 @@ header div {
     font-size: 20px;
 }
 
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
